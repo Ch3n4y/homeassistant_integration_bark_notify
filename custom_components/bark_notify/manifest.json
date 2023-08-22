@@ -1,0 +1,21 @@
+{
+  "domain": "bark_notify",
+  "name": "Bark Notify",
+  "bluetooth": [],
+  "codeowners": ["@Ch3n4y"],
+  "config_flow": false,
+  "dependencies": [],
+  "dhcp": [],
+  "documentation": "https://github.com/Ch3n4y/homeassistant_integration_bark_notify",
+  "homekit": {},
+  "integration_type": "service",
+  "iot_class": "cloud_push",
+  "issue_tracker": "https://github.com/Ch3n4y/homeassistant_integration_bark_notify/issues",
+  "loggers": [],
+  "mqtt": [],
+  "requirements": ["requests"],
+  "ssdp": [],
+  "usb": [],
+  "version": "1.0.0",
+  "zeroconf": []
+}

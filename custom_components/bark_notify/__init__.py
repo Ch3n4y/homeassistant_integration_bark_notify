@@ -1,0 +1,1 @@
+"""The bark notify component."""
